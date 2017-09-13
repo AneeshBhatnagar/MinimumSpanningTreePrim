@@ -1,5 +1,5 @@
-#Minimum Spanning Tree using Prim's Algorithm
-####Built by Aneesh Bhatnagar
+# Minimum Spanning Tree using Prim's Algorithm
+#### Built by Aneesh Bhatnagar
 
 The program takes in the input via a file named input.txt and outputs the minimum spanning tree of the provided graph to the output.txt file. 
 
